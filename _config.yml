@@ -17,7 +17,7 @@ location: 'Maine, USA'
 url: 'http://kris.shaffermusic.com/jasper/'
 image: 'assets/images/casper.png'
 
-short_url: 'biomadeira.github.io/jasper/'
+short_url: 'kris.shaffermusic.com/jasper/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -54,13 +54,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: biomadeira
+username: kshaffer
 repo: jasper
-branch: master
+branch: gh-pages
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://biomadeira.github.io/jasper/
-source_url:      https://github.com/biomadeira/jasper/
+production_url:  https://kris.shaffermusic.com/jasper/
+source_url:      https://github.com/kshaffer/jasper/
 
 exclude:
   - README.md
