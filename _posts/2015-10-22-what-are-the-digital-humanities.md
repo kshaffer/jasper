@@ -3,6 +3,8 @@ layout: post
 title: "What are the digital humanities?"
 modified: 2015-10-22 09:22:00 -0600
 tags: [DH, Twitter]
+cover: 'assets/images/pw2.jpg'
+subclass: 'post tag-test tag-content'
 image:
   feature: pw2.jpg
   teaser: pw2-teaser.jpg
