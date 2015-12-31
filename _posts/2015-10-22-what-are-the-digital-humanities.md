@@ -10,8 +10,7 @@ image:
   teaser: pw2-teaser.jpg
   credit: Christiaan Colen
   creditlink: https://www.flickr.com/photos/132889348@N07/20971563620/
-comments: true
-share: true
+navigation: true
 categories: blog
 ---
 
