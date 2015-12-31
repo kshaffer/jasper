@@ -12,7 +12,7 @@ description: "Music theorist. Digital humanist. Author. Editor. Coder."
 author: 'Kris Shaffer'
 # edit 'categories' in the front matter of every post to match this username
 nickname: kris
-bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the [University of Colorado–Boulder](https://music.colorado.edu) and Editor for Hybrid Pedagogy Publishing. He is also the lead author of Open Music Theory.'
+bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the <a href="https://music.colorado.edu">University of Colorado–Boulder</a> and Editor for Hybrid Pedagogy Publishing. He is also the lead author of Open Music Theory.'
 location: 'Boulder, Colo.'
 url: 'http://kris.shaffermusic.com/jasper/'
 image: 'assets/images/krishead.jpg'
