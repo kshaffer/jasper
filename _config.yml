@@ -2,24 +2,24 @@
 markdown: redcarpet
 highlighter: pygments
 paginate: 5
-language: 'en-uk'
+language: 'en-us'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'Kris Shaffer'
+description: "Music theorist. Digital humanist."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Kris Shaffer'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+nickname: kris
+bio: 'Kris Shaffer, Ph.D. (Yale University, 2011), is Instructor of Music Theory at the University of Colorado–Boulder and Editor for Hybrid Pedagogy Publishing. He is also the lead author of Open Music Theory.'
+location: 'Boulder, Colo.'
 url: 'http://kris.shaffermusic.com/jasper/'
-image: 'assets/images/casper.png'
+image: 'assets/images/krishead.jpg'
 
 short_url: 'kris.shaffermusic.com/jasper/'
-google_analytics: UA-69281367-1
-disqus: username
+google_analytics: 
+disqus: 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /jasper/
 
