@@ -11,7 +11,7 @@ Text: Kris Shaffer (2010), based on Isaiah 46 and Romans 9
 Music: Kris Shaffer (2010)  
 Demo recording: Heidi Betts  
 
-[recording]({{ root_url }}/worship-music/audio/Secure.mp3)
+[recording]({{ root_url }}worship-music/audio/Secure.mp3)
 
 [lead sheet in C]({{ root_url }}/worship-music/PDFs/Secure-lead-C.pdf)  
 [lead sheet in D]({{ root_url }}/worship-music/PDFs/Secure-lead-D.pdf)  
