@@ -25,9 +25,9 @@ disqus:
 baseurl: /jasper/
 
 # Permalinks
-permalink:   /:year/:month/:title/
+permalink:   :year/:month/:title/
 # permalink: /author/:username
-# permalink: /tag/:tag
+permalink: /tag/:tag
 
 
 # gems and other configs
