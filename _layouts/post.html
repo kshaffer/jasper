@@ -11,7 +11,7 @@ class: 'post-template'
 <!-- Everything inside the #post tags pulls data from the post -->
 <!-- #post -->
 
-<header class="main-header post-head {% if page.image.feature %}" style="background-image: url({{ site.baseurl }}{{ page.image.feature }}) {% else %}no-cover{% endif %}">
+<header class="main-header post-head {% if page.image.feature %}" style="background-image: url({{ site.baseurl }}assets/images/{{ page.image.feature }}) {% else %}no-cover{% endif %}">
     <nav class="main-nav {% if page.image.feature %} overlay {% endif %} clearfix">
         {% if page.logo %}<a class="blog-logo" href="{{ site.baseurl }}"><img src="{{ site.baseurl }}{{ page.logo }}" alt="Blog Logo" /></a>{% endif %}
         {% if page.navigation %}
@@ -107,7 +107,7 @@ class: 'post-template'
 
     <!-- [[! next_post ]] -->{{ post.url | remove: '/' }}
     {% if page.next %}
-        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.baseurl }}{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.next.url | remove: '/' }}">
+        <a class="read-next-story {% if page.next.image.feature %}" style="background-image: url({{ site.baseurl }}assets/images/{{ page.next.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.next.url | remove: '/' }}">
             <section class="post">
                 <h2>{{ page.next.title }}</h2>
                 <p>{{ page.next.content | truncatewords:15 }}</p>
@@ -117,7 +117,7 @@ class: 'post-template'
     <!-- [[! /next_post ]] -->
     <!-- [[! prev_post ]] -->
     {% if page.previous %}
-        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.baseurl }}{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.previous.url | remove: '/' }}">
+        <a class="read-next-story prev {% if page.previous.image.feature %}" style="background-image: url({{ site.baseurl }}assets/images/{{ page.previous.image.feature }}){% else %}no-cover{% endif %}" href="{{ site.baseurl }}{{ page.previous.url | remove: '/' }}">
             <section class="post">
                 <h2>{{ page.previous.title }}</h2>
                 <p>{{ page.previous.content | truncatewords:15 }}</p>
